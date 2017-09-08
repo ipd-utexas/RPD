@@ -1,6 +1,6 @@
 # Resources for Peace and Development
 
-
+![](https://github.com/ipd-utexas/RPD/blob/master/Images/logo.png?raw=true)
 
 This repository hosts public datasets that result from research completed at Innovations for Peace and Development, archived versions of IPD skills workshops, and a wiki highlighting our most frequently used resources. 
 
